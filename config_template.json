@@ -1,0 +1,21 @@
+{
+    "login": {
+        "username": "your_username",
+        "password": "your_password"
+    },
+    "config1": {
+        "mining_address": "new_pool_address_1",
+        "miner_name": "new_miner_name_1",
+        "password": "new_password_1"
+    },
+    "config2": {
+        "mining_address": "new_pool_address_2",
+        "miner_name": "new_miner_name_2",
+        "password": "new_password_2"
+    },
+    "config3": {
+        "mining_address": "new_pool_address_3",
+        "miner_name": "new_miner_name_3",
+        "password": "new_password_3"
+    }
+}
